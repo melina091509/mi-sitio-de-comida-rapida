@@ -1,0 +1,239 @@
+ *   {margin: 0;
+     padding: 0;
+}
+
+
+  input{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    margin-right: 10px;
+    border-radius: 12px 12px 12px 12px;
+  }
+
+  h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+     
+  }
+
+.munus{
+    text-align: center;
+}
+
+.index
+{ 
+padding-top: 10px;
+padding-bottom: 30px;
+padding-left: 20px;
+margin-right: 200px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3ef0d;
+    height: 3000;
+    display: flex;
+    flex-direction: column;
+    grid-gap: 20px;
+    
+}
+
+/* Encabezado */
+header {
+    background-color: #ff5733;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+img{
+    border-radius: 15px 15px 15px 15px;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.jugos{
+    position: relative;
+    left: 800px;
+    bottom: 2160px;
+}
+.perro{
+    position: relative;
+    left: 400px;
+    bottom: 1550px;
+}
+.hija{
+    position: relative;
+    left: 40px;
+    bottom: 1850px;
+}
+
+
+.pollo{
+    position: relative;
+    left: 800px;
+    bottom: 1540px;
+}
+.salami{
+    position: relative;
+    left: 400px;
+    bottom: 1140px; 
+}
+.Queso{
+    position: relative;
+    left: 45px;
+    bottom: 750px;
+}
+.Empanada{
+    position: relative;
+    left: 800px;
+    bottom: 780px;
+}
+.Emely{
+    position: relative;
+    left: 400px;
+    bottom: 388px;
+}
+.yaque{
+    position: relative;
+    left: 45px;
+    bottom: 0px;
+}
+.melisa{
+    position: relative;
+    left: 20px;
+    bottom: 0px;
+   align-items: center;
+   margin-bottom: 30px;
+}
+
+
+.Rafa{
+    position: relative;
+    left: 20px;
+    bottom: 0px;
+    align-items: center;
+    margin-bottom: 39px;
+}
+.lesly{
+    position: relative;
+    left: 750px;
+    bottom: 1720px;
+}
+.Yame{
+    position: relative;
+    left: 500px;
+    bottom: 1430px;
+}
+.Laisha{
+    position: relative;
+    left: 250px;
+    bottom: 1140px;
+}
+
+.lala{
+    position: relative;
+    left: 20px;
+    bottom: 850px;
+}
+.klk{
+    position: relative;
+    left: 750px;
+    bottom: 870px;
+}
+
+.jeimy{
+    position: relative;
+    left: 500px;
+    bottom: 580px;
+}
+
+.Isabel{
+    position: relative;
+    left: 250px;
+    bottom: 290px;
+}
+
+.papa{
+    position: relative;
+    left: 100px;
+    bottom: 0px;
+
+}
+
+.Yamelis{
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+}
+
+.Daniela{
+    position: relative;
+    left: 20px;
+    bottom: 0px;
+}
+/* Navegación */
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 15px;
+    border-radius: 5px
+   
+}
+
+form{
+    margin-left: 500px;
+    border-radius: 15px 15px 15px 15px;
+    margin-right: 300px;
+}
+
+button{
+    position: relative;
+    left: 60px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+textarea{
+    border-radius: 10px 10px 10px 10px;
+}
+
+footer{
+    padding: 50px;
+    color: #f8f8f8;
+    background-color: rgb(59, 56, 56);
+    text-align: center;
+    margin-top: -1725px;
+    
+    }
+
+img{
+    align-items: center;
+}
